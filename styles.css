@@ -1,0 +1,39 @@
+h1 {
+  color: #745d49;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.first-color {
+  background: #745d49;
+}
+
+h3 {
+  background: #f6f2e9;
+  color: #241a17;
+}
+
+.container {
+  background: #745d49;
+  color: #241a17;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.btn-success {
+  color: #f6f2e9;
+  background-color: #241a17;
+  border-color: #241a17;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.btn-success:hover {
+  background-color: #c7bab0;
+  border-color: #c7bab0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.btn-success:open {
+  background: #241a17;
+}
+
+.card {
+  align-items: center;
+}
